@@ -1,0 +1,23 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 03/11/2021, 19:01:38
+    Author     : Guilherme Barros
+*/
+
+@media screen and (max-width: 768px) {
+  section .question_card {
+    width: 90%;
+    margin: 6rem auto auto;
+  }
+
+  section .imgResult {
+    width: 90%!important;
+  }
+
+  footer {
+    font-size: 12px;
+  }
+}
