@@ -62,12 +62,13 @@ section .question_options button {
 }
 
 input[type="radio"] {
- display: none;
+
 }
 
 label {
   display: inline-block;
   min-width: 170px;
+  width:90%;
   padding: 1rem;
   font-size: var(--font-size);
   text-align: left;

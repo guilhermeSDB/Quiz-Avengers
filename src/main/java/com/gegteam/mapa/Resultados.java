@@ -76,7 +76,7 @@ public class Resultados extends HttpServlet {
             return "Homem-Aranha";
         else if(soma >= 11 && soma <= 13)
             return "Doutor Estranho";
-        else if(soma <= 14 && soma <= 16)
+        else if(soma >= 14 && soma <= 16)
             return "Feiticeira Escarlate";
         else if(soma >= 17 && soma <= 19)
             return "Thor";
