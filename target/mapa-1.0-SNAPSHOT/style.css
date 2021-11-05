@@ -62,7 +62,7 @@ section .question_options button {
 }
 
 input[type="radio"] {
-
+ display: none;
 }
 
 label {
